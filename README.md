@@ -1,16 +1,16 @@
-# ng2-fuse (NgFuse)
-[![npm version](https://badge.fury.io/js/ng2-fuse.svg)](https://badge.fury.io/js/ng2-fuse)
-[![npm downloads](https://img.shields.io/npm/dt/ng2-fuse.svg)](https://npm-stat.com/charts.html?package=ng2-fuse)
+# angular-fuse (NgFuse)
+[![npm version](https://badge.fury.io/js/angular-fuse.svg)](https://badge.fury.io/js/angular-fuse)
+[![npm downloads](https://img.shields.io/npm/dt/angular-fuse.svg)](https://npm-stat.com/charts.html?package=angular-fuse)
 
 **NgFuse provides an Angular 2 pipe for fuzzy-searching.** <br>This package is powered by the **awesome** and lightweight library [Fuse.js](http://fusejs.io/).  
 
 ## Installation
-> npm install ng2-fuse
+> npm install angular-fuse
 
 ## Usage
  Import NgFuseMode in ```app.module.ts```
 ```
-import { NgFuseModule } from 'ng2-fuse';
+import { NgFuseModule } from 'angular-fuse';
 @NgModule({
   imports: [
     ...
